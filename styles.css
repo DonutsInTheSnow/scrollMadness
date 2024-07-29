@@ -63,4 +63,9 @@ p {
     color: chartreuse;
     border-radius: 10px;
 }
+@media (max-width: 500px) {
+    .scroll-over {
+        margin: 500px 10px 0 10px;
+    }
+}
 
